@@ -1,0 +1,15 @@
+PROGRAM complier;
+LET
+i, j, k, l, m, n : VAR ;
+BISMILLAH
+i = 13 ;
+               j = 23;
+               CONSOLE(i) ;   
+               l = 124 ;
+               k = i + 2 * ( i + l ) ;
+               m = k + j * l;
+               n = m * k;
+               CONSOLE(k) ;
+               CONSOLE(m);
+               CONSOLE(n); 
+ALHAMDULILLAH
